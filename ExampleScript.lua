@@ -3,7 +3,7 @@
 --  Copy this, swap the URL, and build your UI.
 -- ════════════════════════════════════════════════════════════════════════
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/PXG4E/Expeditionsw/refs/heads/main/CustomUI.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/PXG4E/TestUI/refs/heads/main/CustomUI.lua"))()
 
 -- ─── Window ───────────────────────────────────────────────────────────────
 local Window = Library:CreateWindow({ Title = "My Script" })
